@@ -2,3 +2,4 @@ blacklist_from *@*.best
 blacklist_from *@*.za.com
 blacklist_from *@*.sa.com
 blacklist_from *@*.lightlove.space
+blacklist_from *@*.ru
